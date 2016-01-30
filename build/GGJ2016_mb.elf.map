@@ -1,0 +1,556 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libg.a(lib_a-init.o)
+                              /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o (__libc_init_array)
+/home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libg.a(lib_a-memcpy.o)
+                              main.o (memcpy)
+/home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libg.a(lib_a-memset.o)
+                              main.o (memset)
+/home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libsysbase.a(malloc_vars.o)
+                              /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o (fake_heap_end)
+
+Allocating common symbols
+Common symbol       size              file
+
+videoBuffer         0x4               main.o
+RAND_RandomData     0x4               gfx.o
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+ .data          0x0000000000000000        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+ .bss           0x0000000000000000        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+ .text          0x0000000000000000        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crti.o
+ .data          0x0000000000000000        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crti.o
+ .bss           0x0000000000000000        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crti.o
+ .data          0x0000000000000000        0x4 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtbegin.o
+ .data          0x0000000000000000        0x0 gfx.o
+ .bss           0x0000000000000000        0x0 gfx.o
+ .bss           0x0000000000000000        0x0 main.o
+ .text          0x0000000000000000        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libg.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libg.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libg.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libg.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libg.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libg.a(lib_a-memcpy.o)
+ .text          0x0000000000000000        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libg.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libg.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libg.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libsysbase.a(malloc_vars.o)
+ .data          0x0000000000000000        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libsysbase.a(malloc_vars.o)
+ .text          0x0000000000000000        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtend.o
+ .data          0x0000000000000000        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtend.o
+ .bss           0x0000000000000000        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtend.o
+ .text          0x0000000000000000        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtn.o
+ .data          0x0000000000000000        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtn.o
+ .bss           0x0000000000000000        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x0000000008000000 0x0000000002000000
+iwram            0x0000000003000000 0x0000000000008000
+ewram            0x0000000002000000 0x0000000000040000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+                0x0000000002000000                __text_start = ORIGIN (ewram)
+                0x0000000002040000                __eheap_end = (ORIGIN (ewram) + 0x40000)
+                0x0000000003000000                __iwram_start = ORIGIN (iwram)
+                0x0000000003008000                __iwram_top = (ORIGIN (iwram) + 0x8000)
+                0x0000000003007fa0                __sp_irq = (__iwram_top - 0x60)
+                0x0000000003007f00                __sp_usr = (__sp_irq - 0xa0)
+                0x0000000003007ff8                __irq_flags = 0x3007ff8
+                0x0000000002000000                . = __text_start
+
+.init           0x0000000002000000      0x21c
+ *(.init)
+ .init          0x0000000002000000      0x210 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+                0x0000000002000000                _start
+                0x00000000020000c4                __boot_method
+                0x00000000020000c5                __slave_number
+                0x00000000020000e0                start_vector
+ .init          0x0000000002000210        0x4 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crti.o
+                0x0000000002000210                _init
+ .init          0x0000000002000214        0x8 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtn.o
+                0x000000000200021c                . = ALIGN (0x4)
+
+.plt            0x000000000200021c        0x0
+ *(.plt)
+                0x000000000200021c                . = ALIGN (0x4)
+
+.text           0x000000000200021c      0xfa4
+ *(EXCLUDE_FILE(*.iwram*) .text)
+ .text          0x000000000200021c       0xd4 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtbegin.o
+ .text          0x00000000020002f0       0x44 gfx.o
+                0x00000000020002f0                Sleep
+                0x00000000020002f4                SeedRandom
+                0x0000000002000308                RAND
+ .text          0x0000000002000334      0x978 main.o
+                0x0000000002000334                PlotPixel
+                0x000000000200034c                PlotPixelTransparent
+                0x00000000020003b0                EraseScreen
+                0x0000000002000404                DoIntro
+                0x0000000002000484                DisplayTank
+                0x0000000002000590                WaitForStart
+                0x00000000020005a4                Flip
+                0x00000000020005d4                WaitForVblank
+                0x00000000020005e4                ChangeBackPal
+                0x0000000002000604                DrawBackground
+                0x000000000200063c                DrawLife
+                0x0000000002000704                DrawTank
+                0x000000000200077c                DrawBombs
+                0x0000000002000b68                DrawDied
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text.startup  0x0000000002000cac      0x3a8 main.o
+                0x0000000002000cac                main
+ .text.__libc_init_array
+                0x0000000002001054       0x58 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libg.a(lib_a-init.o)
+                0x0000000002001054                __libc_init_array
+ .text.memcpy   0x00000000020010ac       0x80 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libg.a(lib_a-memcpy.o)
+                0x00000000020010ac                memcpy
+ .text.memset   0x000000000200112c       0x94 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libg.a(lib_a-memset.o)
+                0x000000000200112c                memset
+ *(.text.*personality*)
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00000000020011c0        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000020011c0        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00000000020011c0        0x0 linker stubs
+                0x00000000020011c0                . = ALIGN (0x4)
+                0x00000000020011c0                __text_end = .
+
+.v4_bx          0x00000000020011c0        0x0
+ .v4_bx         0x00000000020011c0        0x0 linker stubs
+
+.iplt           0x00000000020011c0        0x0
+ .iplt          0x00000000020011c0        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+
+.fini           0x00000000020011c0        0xc
+ *(.fini)
+ .fini          0x00000000020011c0        0x4 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crti.o
+                0x00000000020011c0                _fini
+ .fini          0x00000000020011c4        0x8 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtn.o
+                0x00000000020011cc                . = ALIGN (0x4)
+
+.rodata         0x00000000020011cc    0x1d3bc
+ *(.rodata)
+ .rodata        0x00000000020011cc    0x1d3bc main.o
+                0x00000000020011cc                logoPalette
+                0x00000000020013cc                logoData
+                0x000000000200a9cc                tankPalette
+                0x000000000200abcc                tankData
+                0x00000000020141cc                txstartData
+                0x0000000002014648                starPalette
+                0x0000000002014848                starData
+                0x000000000201de48                objtankData
+                0x000000000201e0a0                objbombData
+                0x000000000201e10c                txdiedData
+ *all.rodata*(*)
+ *(.roda)
+ *(.rodata.*)
+ *(.gnu.linkonce.r*)
+                0x000000000201e588                . = ALIGN (0x4)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000000000201e588                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x000000000201e588                __exidx_end = .
+                0x000000000201e588                . = ALIGN (0x4)
+                0x000000000201e588                PROVIDE (__preinit_array_start, .)
+
+.preinit_array
+ *(.preinit_array)
+                0x000000000201e588                PROVIDE (__preinit_array_end, .)
+                0x000000000201e588                PROVIDE (__init_array_start, .)
+
+.init_array     0x000000000201e588        0x4
+ *(.init_array)
+ .init_array    0x000000000201e588        0x4 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtbegin.o
+                0x000000000201e58c                PROVIDE (__init_array_end, .)
+                [!provide]                        PROVIDE (__fini_array_start, .)
+
+.fini_array     0x000000000201e58c        0x4
+ *(.fini_array)
+ .fini_array    0x000000000201e58c        0x4 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end, .)
+
+.ctors          0x000000000201e590        0x0
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x000000000201e590                . = ALIGN (0x4)
+
+.dtors          0x000000000201e590        0x0
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x000000000201e590                . = ALIGN (0x4)
+
+.jcr            0x000000000201e590        0x4
+ *(.jcr)
+ .jcr           0x000000000201e590        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtbegin.o
+ .jcr           0x000000000201e590        0x4 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtend.o
+
+.eh_frame       0x000000000201e594        0x4
+ *(.eh_frame)
+ .eh_frame      0x000000000201e594        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtbegin.o
+ .eh_frame      0x000000000201e594        0x4 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtend.o
+                0x000000000201e598                . = ALIGN (0x4)
+
+.rel.dyn        0x000000000201e598        0x0
+ .rel.iplt      0x000000000201e598        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+
+.gcc_except_table
+                0x000000000201e598        0x0
+ *(.gcc_except_table)
+                0x000000000201e598                . = ALIGN (0x4)
+                0x000000000201e598                __iwram_lma = .
+
+.iwram          0x0000000003000000        0x0 load address 0x000000000201e598
+                0x0000000003000000                __iwram_start__ = ABSOLUTE (.)
+ *(.iwram)
+ *iwram.*(.text)
+                0x0000000003000000                . = ALIGN (0x4)
+                0x0000000003000000                __iwram_end__ = ABSOLUTE (.)
+                0x000000000201e598                __data_lma = (__iwram_lma + SIZEOF (.iwram))
+
+.bss            0x0000000003000000       0x2c
+                0x0000000003000000                __bss_start__ = ABSOLUTE (.)
+ *(.dynbss)
+ *(.gnu.linkonce.b*)
+ *(.bss*)
+ .bss           0x0000000003000000       0x1c /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtbegin.o
+ .bss           0x000000000300001c        0x8 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libsysbase.a(malloc_vars.o)
+                0x000000000300001c                fake_heap_start
+                0x0000000003000020                fake_heap_end
+ *(COMMON)
+ COMMON         0x0000000003000024        0x4 gfx.o
+                0x0000000003000024                RAND_RandomData
+ COMMON         0x0000000003000028        0x4 main.o
+                0x0000000003000028                videoBuffer
+                0x000000000300002c                . = ALIGN (0x4)
+                0x000000000300002c                __bss_end__ = ABSOLUTE (.)
+
+.data           0x000000000300002c       0x14 load address 0x000000000201e598
+                0x000000000300002c                __data_start__ = ABSOLUTE (.)
+ *(.data)
+ .data          0x000000000300002c       0x14 main.o
+                0x000000000300002c                ScanlineCounter
+                0x0000000003000030                BackBuffer
+                0x0000000003000034                FrontBuffer
+                0x0000000003000038                paletteMem
+                0x000000000300003c                KEYS
+ *(.data.*)
+ *(.gnu.linkonce.d*)
+                0x0000000003000040                . = ALIGN (0x4)
+                0x0000000003000040                __data_end__ = ABSOLUTE (.)
+                0x000000000201e5ac                __iwram_overlay_lma = (__data_lma + SIZEOF (.data))
+                [!provide]                        PROVIDE (edata, .)
+                0x0000000003000040                __iwram_overlay_start = .
+
+.igot.plt       0x0000000003000040        0x0 load address 0x000000000201e5ac
+ .igot.plt      0x0000000003000040        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+
+.tm_clone_table
+                0x0000000003000040        0x0 load address 0x000000000201e5ac
+ .tm_clone_table
+                0x0000000003000040        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtbegin.o
+ .tm_clone_table
+                0x0000000003000040        0x0 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtend.o
+
+.iwram0         0x0000000003000040        0x0 load address 0x000000000201e5ac
+ *(.iwram0)
+                0x0000000003000040                . = ALIGN (0x4)
+                0x000000000201e5ac                PROVIDE (__load_start_iwram0, LOADADDR (.iwram0))
+                0x000000000201e5ac                PROVIDE (__load_stop_iwram0, (LOADADDR (.iwram0) + SIZEOF (.iwram0)))
+
+.iwram1         0x0000000003000040        0x0
+ *(.iwram1)
+                0x0000000003000040                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__load_start_iwram1, LOADADDR (.iwram1))
+                [!provide]                        PROVIDE (__load_stop_iwram1, (LOADADDR (.iwram1) + SIZEOF (.iwram1)))
+
+.iwram2         0x0000000003000040        0x0
+ *(.iwram2)
+                0x0000000003000040                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__load_start_iwram2, LOADADDR (.iwram2))
+                [!provide]                        PROVIDE (__load_stop_iwram2, (LOADADDR (.iwram2) + SIZEOF (.iwram2)))
+
+.iwram3         0x0000000003000040        0x0
+ *(.iwram3)
+                0x0000000003000040                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__load_start_iwram3, LOADADDR (.iwram3))
+                [!provide]                        PROVIDE (__load_stop_iwram3, (LOADADDR (.iwram3) + SIZEOF (.iwram3)))
+
+.iwram4         0x0000000003000040        0x0
+ *(.iwram4)
+                0x0000000003000040                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__load_start_iwram4, LOADADDR (.iwram4))
+                [!provide]                        PROVIDE (__load_stop_iwram4, (LOADADDR (.iwram4) + SIZEOF (.iwram4)))
+
+.iwram5         0x0000000003000040        0x0
+ *(.iwram5)
+                0x0000000003000040                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__load_start_iwram5, LOADADDR (.iwram5))
+                [!provide]                        PROVIDE (__load_stop_iwram5, (LOADADDR (.iwram5) + SIZEOF (.iwram5)))
+
+.iwram6         0x0000000003000040        0x0
+ *(.iwram6)
+                0x0000000003000040                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__load_start_iwram6, LOADADDR (.iwram6))
+                [!provide]                        PROVIDE (__load_stop_iwram6, (LOADADDR (.iwram6) + SIZEOF (.iwram6)))
+
+.iwram7         0x0000000003000040        0x0
+ *(.iwram7)
+                0x0000000003000040                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__load_start_iwram7, LOADADDR (.iwram7))
+                [!provide]                        PROVIDE (__load_stop_iwram7, (LOADADDR (.iwram7) + SIZEOF (.iwram7)))
+
+.iwram8         0x0000000003000040        0x0
+ *(.iwram8)
+                0x0000000003000040                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__load_start_iwram8, LOADADDR (.iwram8))
+                [!provide]                        PROVIDE (__load_stop_iwram8, (LOADADDR (.iwram8) + SIZEOF (.iwram8)))
+
+.iwram9         0x0000000003000040        0x0
+ *(.iwram9)
+                0x0000000003000040                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__load_start_iwram9, LOADADDR (.iwram9))
+                [!provide]                        PROVIDE (__load_stop_iwram9, (LOADADDR (.iwram9) + SIZEOF (.iwram9)))
+                0x000000000201e5ac                __ewram_lma = ((((((((((LOADADDR (.iwram0) + SIZEOF (.iwram0)) + SIZEOF (.iwram1)) + SIZEOF (.iwram2)) + SIZEOF (.iwram3)) + SIZEOF (.iwram4)) + SIZEOF (.iwram5)) + SIZEOF (.iwram6)) + SIZEOF (.iwram7)) + SIZEOF (.iwram8)) + SIZEOF (.iwram9))
+                0x000000000201e5ac                __iwram_overlay_end = __ewram_lma
+                0x000000000201e5ac                __ewram_start = __ewram_lma
+
+.ewram          0x000000000201e5ac        0x0
+ *(.ewram)
+                0x000000000201e5ac                . = ALIGN (0x4)
+                0x000000000201e5ac                __ewram_end = ABSOLUTE (.)
+                0x000000000201e5ac                __ewram_overlay_lma = (__ewram_lma + SIZEOF (.ewram))
+
+.sbss           0x000000000201e5ac        0x0
+                0x000000000201e5ac                __sbss_start__ = ABSOLUTE (.)
+ *(.sbss)
+                0x000000000201e5ac                . = ALIGN (0x4)
+                0x000000000201e5ac                __sbss_end__ = ABSOLUTE (.)
+                0x000000000201e5ac                __end__ = ABSOLUTE (.)
+                0x000000000201e5ac                __eheap_start = ABSOLUTE (.)
+
+.ewram0         0x000000000201e5ac        0x0
+ *(.ewram0)
+                0x000000000201e5ac                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__load_start_ewram0, LOADADDR (.ewram0))
+                [!provide]                        PROVIDE (__load_stop_ewram0, (LOADADDR (.ewram0) + SIZEOF (.ewram0)))
+
+.ewram1         0x000000000201e5ac        0x0
+ *(.ewram1)
+                0x000000000201e5ac                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__load_start_ewram1, LOADADDR (.ewram1))
+                [!provide]                        PROVIDE (__load_stop_ewram1, (LOADADDR (.ewram1) + SIZEOF (.ewram1)))
+
+.ewram2         0x000000000201e5ac        0x0
+ *(.ewram2)
+                0x000000000201e5ac                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__load_start_ewram2, LOADADDR (.ewram2))
+                [!provide]                        PROVIDE (__load_stop_ewram2, (LOADADDR (.ewram2) + SIZEOF (.ewram2)))
+
+.ewram3         0x000000000201e5ac        0x0
+ *(.ewram3)
+                0x000000000201e5ac                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__load_start_ewram3, LOADADDR (.ewram3))
+                [!provide]                        PROVIDE (__load_stop_ewram3, (LOADADDR (.ewram3) + SIZEOF (.ewram3)))
+
+.ewram4         0x000000000201e5ac        0x0
+ *(.ewram4)
+                0x000000000201e5ac                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__load_start_ewram4, LOADADDR (.ewram4))
+                [!provide]                        PROVIDE (__load_stop_ewram4, (LOADADDR (.ewram4) + SIZEOF (.ewram4)))
+
+.ewram5         0x000000000201e5ac        0x0
+ *(.ewram5)
+                0x000000000201e5ac                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__load_start_ewram5, LOADADDR (.ewram5))
+                [!provide]                        PROVIDE (__load_stop_ewram5, (LOADADDR (.ewram5) + SIZEOF (.ewram5)))
+
+.ewram6         0x000000000201e5ac        0x0
+ *(.ewram6)
+                0x000000000201e5ac                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__load_start_ewram6, LOADADDR (.ewram6))
+                [!provide]                        PROVIDE (__load_stop_ewram6, (LOADADDR (.ewram6) + SIZEOF (.ewram6)))
+
+.ewram7         0x000000000201e5ac        0x0
+ *(.ewram7)
+                0x000000000201e5ac                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__load_start_ewram7, LOADADDR (.ewram7))
+                [!provide]                        PROVIDE (__load_stop_ewram7, (LOADADDR (.ewram7) + SIZEOF (.ewram7)))
+
+.ewram8         0x000000000201e5ac        0x0
+ *(.ewram8)
+                0x000000000201e5ac                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__load_start_ewram8, LOADADDR (.ewram8))
+                [!provide]                        PROVIDE (__load_stop_ewram8, (LOADADDR (.ewram8) + SIZEOF (.ewram8)))
+
+.ewram9         0x000000000201e5ac        0x0
+ *(.ewram9)
+                0x000000000201e5ac                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__load_start_ewram9, LOADADDR (.ewram9))
+                [!provide]                        PROVIDE (__load_stop_ewram9, (LOADADDR (.ewram9) + SIZEOF (.ewram9)))
+                0x000000000201e5ac                __ewram_overlay_end = ABSOLUTE (.)
+                0x000000000201e5ac                __eheap_start = __ewram_overlay_end
+                0x000000000201e5ac                _end = __ewram_overlay_end
+                0x000000000201e5ac                __end__ = __ewram_overlay_end
+                0x000000000201e5ac                __rom_end__ = __ewram_overlay_end
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x22
+ *(.comment)
+ .comment       0x0000000000000000       0x22 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtbegin.o
+                                         0x23 (size before relaxing)
+ .comment       0x0000000000000022       0x23 gfx.o
+ .comment       0x0000000000000022       0x23 main.o
+ .comment       0x0000000000000022       0x23 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libg.a(lib_a-init.o)
+ .comment       0x0000000000000022       0x23 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libg.a(lib_a-memcpy.o)
+ .comment       0x0000000000000022       0x23 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libg.a(lib_a-memset.o)
+ .comment       0x0000000000000022       0x23 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libsysbase.a(malloc_vars.o)
+ .comment       0x0000000000000022       0x23 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtend.o
+
+.ARM.attributes
+                0x0000000000000000       0x2b
+ .ARM.attributes
+                0x0000000000000000       0x16 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+ .ARM.attributes
+                0x0000000000000016       0x16 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crti.o
+ .ARM.attributes
+                0x000000000000002c       0x30 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtbegin.o
+ .ARM.attributes
+                0x000000000000005c       0x2c gfx.o
+ .ARM.attributes
+                0x0000000000000088       0x2c main.o
+ .ARM.attributes
+                0x00000000000000b4       0x30 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000000e4       0x30 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libg.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000000000000114       0x30 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000144       0x30 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libsysbase.a(malloc_vars.o)
+ .ARM.attributes
+                0x0000000000000174       0x30 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtend.o
+ .ARM.attributes
+                0x00000000000001a4       0x16 /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000       0x48
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 gfx.o
+ .debug_aranges
+                0x0000000000000020       0x28 main.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000      0xe95
+ *(.debug_info)
+ .debug_info    0x0000000000000000       0xf6 gfx.o
+ .debug_info    0x00000000000000f6      0xd9f main.o
+
+.debug_abbrev   0x0000000000000000      0x3ca
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0xd5 gfx.o
+ .debug_abbrev  0x00000000000000d5      0x2f5 main.o
+
+.debug_line     0x0000000000000000      0x623
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0xff gfx.o
+ .debug_line    0x00000000000000ff      0x524 main.o
+
+.debug_frame    0x0000000000000000      0x200
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x40 gfx.o
+ .debug_frame   0x0000000000000040      0x1c0 main.o
+
+.debug_str      0x0000000000000000      0x33f
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x13c gfx.o
+                                        0x148 (size before relaxing)
+ .debug_str     0x000000000000013c      0x203 main.o
+                                        0x2e8 (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x1475
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0x21 gfx.o
+ .debug_loc     0x0000000000000021     0x1454 main.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.stack          0x0000000000080000        0x0
+                0x0000000000080000                _stack = .
+ *(.stack)
+LOAD /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/gba_crt0.o
+LOAD /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crti.o
+LOAD /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtbegin.o
+LOAD gfx.o
+LOAD main.o
+LOAD /home/ahris/devkitPro/libgba/lib/libgba.a
+START GROUP
+LOAD /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/libgcc.a
+LOAD /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libg.a
+LOAD /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libc.a
+LOAD /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/../../../../arm-none-eabi/lib/thumb/libsysbase.a
+END GROUP
+LOAD /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtend.o
+LOAD /home/ahris/devkitPro/devkitARM/bin/../lib/gcc/arm-none-eabi/5.3.0/thumb/crtn.o
+OUTPUT(/home/ahris/Dropbox/LinuxDocuments/SeniorWork/GameBoyAdvancedPrograms/GGJ2016/GGJ2016_mb.elf elf32-littlearm)
+
+.debug_ranges   0x0000000000000000      0x2f8
+ .debug_ranges  0x0000000000000000      0x2f8 main.o
